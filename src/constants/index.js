@@ -42,11 +42,11 @@ export const PROJECTS = [
     link:"https://portfolio-react-three-ochre.vercel.app/"
   },
   {
-    title: "Blogging Platform",
+    title: "Expense-Tracking Platform",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "A platform for keeping up track for your expenses . It is made Using ReactJs",
+    technologies: ["HTML", "CSS", 'JS','ReactJs'],
   },
 ];
 
