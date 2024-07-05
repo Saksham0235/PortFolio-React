@@ -18,6 +18,7 @@ const Projects = () => {
                     <motion.div whileInView={{opacity:1,x:0}} initial={{opacity:0,x:100}} transition={{duration:1}} className='w-full max-w-xl lg:w-3/4'>
                     <h6 className='font-semibold mb-2  text-center lg:text-left'>{proj.title}</h6>
                     <p className='mb-4  text-neutral-400'>{proj.description}</p>
+                    <p className='mb-3'>Live Link : <a href={proj.link}className='border-b' target='_blank'>{proj.link}</a></p>
                     {proj.technologies.map((tech,index)=>{
                         return(
                             <span key={index} className='rounded mr-2 bg-neutral-900 py-1 px-2 text-sm font-medium text-purple-900'>{tech}</span>

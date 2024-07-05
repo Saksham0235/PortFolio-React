@@ -24,6 +24,7 @@ export const PROJECTS = [
     description:
       "Developed a Todoist Clone using Technologies: React.js , Redux Toolkit , JavaScript.Implemented features such as task creation, deletion, editing and task completion with Redux for state management. Used React Components for modular and Scalable user interface.Integrated responsive design principles for optimal user experience across devices",
     technologies: ["HTML", "CSS", "React", "Redux"],
+    link:"https://todoist-clone-black.vercel.app/"
   },
   {
     title: "Whiteboard Sharing App",
@@ -38,6 +39,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "TailWind Css"],
+    link:"https://portfolio-react-three-ochre.vercel.app/"
   },
   {
     title: "Blogging Platform",
