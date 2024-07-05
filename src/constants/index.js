@@ -47,6 +47,7 @@ export const PROJECTS = [
     description:
       "A platform for keeping up track for your expenses . It is made Using ReactJs",
     technologies: ["HTML", "CSS", 'JS','ReactJs'],
+    link:"https://expense-tracker-two-dun.vercel.app/"
   },
 ];
 
