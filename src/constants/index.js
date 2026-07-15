@@ -27,13 +27,6 @@ export const PROJECTS = [
     link:"https://todoist-clone-black.vercel.app/"
   },
   {
-    title: "Whiteboard Sharing App",
-    image: project2,
-    description:
-      "Our Whiteboard Sharing App is a dynamic and collaborative platform designed to enhance real-time communication and brainstorming sessions. Built using the powerful combination of React for the frontend and Express.js for the backend, this application provides a seamless and interactive whiteboard experience for users ",
-    technologies: ["HTML", "CSS", "React", "Typescript","Express"],
-  },
-  {
     title: "Portfolio Website",
     image: project3,
     description:
@@ -46,8 +39,8 @@ export const PROJECTS = [
     image: project4,
     description:
       "A platform for keeping up track for your expenses . It is made Using ReactJs",
-    technologies: ["HTML", "CSS", 'JS','ReactJs'],
-    link:"https://expense-tracker-two-dun.vercel.app/"
+    technologies: ["Sqlite", "CSS", 'NodeJs','ReactJs'],
+    link:"https://expense-tracker-sooty-iota-55.vercel.app/"
   },
 ];
 
